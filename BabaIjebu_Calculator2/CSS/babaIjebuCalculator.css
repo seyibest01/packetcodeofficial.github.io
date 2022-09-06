@@ -1,0 +1,61 @@
+body {
+    background-color: #345AC2;
+    font-size: 1.5rem;
+    color: white;
+}
+
+nav {
+    background-color: #060F26;
+    height: 100px;
+    width: 90%;
+    border-radius: 15px;
+    font-size: 1.3rem ;
+    color: white;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+
+
+#secondLink {
+    color: white;
+}
+
+
+div.container {
+    background-color: #060F26 ;
+    height: 400px;
+    width: 90%;
+    border-radius: 15px;
+}
+
+
+
+input.form-control {
+    background-color: #58A4E6;
+    /* color: yellow; */
+    width: 100%;
+    /* font-size: 0.5rem; */
+    border-radius: 15px;
+}
+
+#totalResult {
+    /* color: green; */
+    font-weight: bold;
+    border-radius: 30px;
+}
+
+
+/* For calcaltor design */
+div.calculator_keys {
+    display: grid;
+}
+
+button.key--operator {
+    background-color: rgb(200, 20, 113);
+    width: 65px;
+}
+
+button {
+    width: 65px;
+}
